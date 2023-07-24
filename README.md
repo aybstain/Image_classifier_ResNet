@@ -59,7 +59,7 @@ A live demo of the image classifier is provided using Gradio. The Gradio interfa
 
 1. Clone the repository: `git clone https://github.com/your_username/Image_classifier_ResNet.git`
 2. Install the required dependencies: `pip install -r requirements.txt`
-3. Run the live demo: `python demo.py`
+3. Run the live demo: `python gradio_app.py`
 
 ## License
 
