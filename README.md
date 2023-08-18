@@ -46,6 +46,16 @@ A live demo of the image classifier is provided using Gradio. The Gradio interfa
 
 <img width="734" alt="capture3" src="https://github.com/aybstain/Image_classifier_ResNet/assets/103702856/323334d6-fbf1-4992-b3ed-261cc11506d6">
 
+## Postman
+
+![330156-1652257077_EditgolfsportArtboard1](https://github.com/aybstain/Image_classifier_ResNet/assets/103702856/144d6ccb-488e-455d-8537-b4cbc97c42bd)
+
+<img width="596" alt="Capture" src="https://github.com/aybstain/Image_classifier_ResNet/assets/103702856/02e0581e-fb0d-4e1c-9373-31bee3e66b10">
+
+![2f3dda4b-ca81-4d65-956d-ce85d7a3f592](https://github.com/aybstain/Image_classifier_ResNet/assets/103702856/5c28f55a-85ff-4a70-a4fa-3de214a1ca2f)
+
+<img width="627" alt="Capture1" src="https://github.com/aybstain/Image_classifier_ResNet/assets/103702856/2be0a75c-4272-4492-819c-d52fd7f3343d">
+
 ## Requirements
 
 - pandas
