@@ -32,19 +32,16 @@ The trained model is used to make predictions on new images. A function is provi
 
 A live demo of the image classifier is provided using Gradio. The Gradio interface allows users to upload an image, and the classifier will make a prediction and display the image along with the predicted class label.
 
-## Results
+## Docker
+1.Build docker image : Open a terminal/command prompt, navigate to the directory containing your files, and execute the following command to build the Docker image:
 
-<img width="735" alt="Capture5" src="https://github.com/aybstain/Image_classifier_ResNet/assets/103702856/465b3583-7ea0-400b-b822-3367e65e681e">
+`docker build -t fastapi-app .`
 
-<img width="735" alt="Capture4" src="https://github.com/aybstain/Image_classifier_ResNet/assets/103702856/b1fb9b44-94ea-446c-ae7a-030af4c68051">
+2.Run the container :
 
-<img width="733" alt="Capture2" src="https://github.com/aybstain/Image_classifier_ResNet/assets/103702856/cb6d464a-324d-4339-8255-59ea626b107d">
+`docker run -d -p 8000:80 fastapi-app`
 
-<img width="734" alt="Capture" src="https://github.com/aybstain/Image_classifier_ResNet/assets/103702856/8909c8d4-9dc8-4103-96e2-84174a8f4254">
-
-<img width="735" alt="Capture1" src="https://github.com/aybstain/Image_classifier_ResNet/assets/103702856/562e4823-1c7b-408f-9c2d-397dccf1fe6c">
-
-<img width="734" alt="capture3" src="https://github.com/aybstain/Image_classifier_ResNet/assets/103702856/323334d6-fbf1-4992-b3ed-261cc11506d6">
+3.Access your app using postman
 
 ## Postman
 
